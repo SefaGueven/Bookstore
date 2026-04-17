@@ -1,0 +1,13 @@
+body {
+  margin: 0; 
+  font-family: raleway;
+
+}
+
+header {
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  margin: 15px auto 0;
+  max-width: 1440px;
+  justify-content: space-between;
+}
